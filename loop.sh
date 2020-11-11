@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in `seq 1 100`
+for i in `seq 1 150`
 do
     echo "$i th commit."
     sed "/NUMBER/$i" main.sh.tmp > main.sh
