@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 71
+echo 72
