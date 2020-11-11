@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 6
+echo 7
