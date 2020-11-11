@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 95
+echo 96
