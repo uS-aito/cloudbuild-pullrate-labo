@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 3
+echo 4
